@@ -1,0 +1,12 @@
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+li {
+  display: inline;
+  padding: 14px;
+  font-size: x-large;
+}
+.bg {
+  background-color: blanchedalmond;
+}
