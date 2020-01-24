@@ -1,13 +1,12 @@
 import React from "react";
 import styled from "styled-components";
 import "./App.css";
-import Nav from "./Components/ Nav.jsx";
+import Nav from "./Components/ Nav";
 import profCat from "./CatProf.jpg";
 
 function App() {
   return (
     <div>
-      <header></header>
       <Nav />
       <div className="profile">
         <div className="profile-image">
@@ -24,7 +23,6 @@ function App() {
           <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
         </div>
       </div>
-      <footer></footer>
     </div>
   );
 }

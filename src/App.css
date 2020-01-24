@@ -20,7 +20,8 @@ img {
 /* Profile section */
 
 .profile {
-  padding: 5rem 0;
+  padding: 5rem 21rem;
+  /* text-align: center; */
 }
 .profile::after {
   content: "";
